@@ -1,0 +1,19 @@
+dnl
+dnl	rpl configure.in for automake v1.5
+dnl
+
+AC_INIT(src/replace.c)
+AM_INIT_AUTOMAKE(rpl, 1.4.1)
+
+
+AC_PROG_CC
+AC_PROG_INSTALL
+
+dnl Add DMALLOC support option
+AM_WITH_DMALLOC 
+
+AC_OUTPUT(	Makefile \
+		src/Makefile \
+		man/Makefile
+	)
+
