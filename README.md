@@ -1,11 +1,5 @@
 # Rpl (FORK FROM laffeycomputer)
 
-<p align="center">
-<kbd>
-  <img src="https://miro.medium.com/max/1024/1*BwEhCXFS1TetR5YtWESSOQ.png">
-</kbd>
-</p>
-
 The rpl command reads standard input, replaces all occurrences of the first parameter, Expression, with the second parameter, Substitute, and then writes the result to standard output.
 
 I Forked the source from laffey Computer services, I added a missing option which let the user skip some  directories he wanted.
