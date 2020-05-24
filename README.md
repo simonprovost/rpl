@@ -2,7 +2,7 @@
 
 <p align="center">
 <kbd>
-  <img src="https://banner2.cleanpng.com/20180330/tzw/kisspng-shell-script-command-line-interface-unix-linux-5abe15e1c625b7.3528720615224068818116.jpg">
+  <img src="https://miro.medium.com/max/1024/1*BwEhCXFS1TetR5YtWESSOQ.png">
 </kbd>
 </p>
 
