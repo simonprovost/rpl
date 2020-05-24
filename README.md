@@ -1,4 +1,4 @@
-# rpl
+# rpl (FORK FROM laffeycomputer)
 
 The rpl command reads standard input, replaces all occurrences of the first parameter, Expression, with the second parameter, Substitute, and then writes the result to standard output.
 I added something in order to add a new method to this command which will skipped the directories wanted.
